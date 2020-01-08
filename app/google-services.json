@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10145010884",
+    "firebase_url": "https://eventdatabaseindiamaowei.firebaseio.com",
+    "project_id": "eventdatabaseindiamaowei",
+    "storage_bucket": "eventdatabaseindiamaowei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10145010884:android:26b7c33128da83723ee591",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10145010884-23lqp6gcrcgm4mr8hd9b44c6jmqei9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARDRUoBXlXHbDkoInB-HEzw_o-Dr_FESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10145010884-23lqp6gcrcgm4mr8hd9b44c6jmqei9b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
